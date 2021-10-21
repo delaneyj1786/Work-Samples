@@ -1,1 +1,11 @@
-Contains
+Contains two work samples from my position as Research Assistant 2 at Oregon Health and Science Univeristy, Oregon Clinical and Translational Research Institute (OCTRI). 
+Were used with permission from Adrienne Zelle, director of Progam Evaluation at OCTRI.  
+
+OHSU_Diversity_Report_Sample : A request from OHSU office of Diversity and Inclusion. 
+All analyses were performed in R using SQL commands to merge datasets from Cognos and Salesforce databases. 
+Report was written in R Sweave and then reformatted in Adobe InDesign. 
+
+
+Opioid Reduction Efforts S.OR Follow Up Survey Analyses: A commissioned report sponsored by Oregon Health Authority. 
+This report used SPSS data for a post- and follow-up survey for participants of the SW Oregon Opioid Consortium. 
+Results for follow-up were compared to Qualtrics, and within subject comparisons across surveys were analyzed and reported.  
